@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/andrew/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1376487657000 858 f181242728731fd7815e2626d7d0cae36084eb8a /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/LoginActivity$2.class
+1376487657000 669 c18a755ae54573835ae8c455dfce60266f28a246 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R$id.class
+1376487657000 500 11947f77e46c6b30492606fad25f5fe83ec909be /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R$style.class
+1376487657000 363 cb8b450f36de378a7ed01a534de7f2ec7a536a70 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/BuildConfig.class
+1376487657000 367 82b7a8fba89274bc08728bcb0306fd7611341542 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R$attr.class
+1376487657000 434 866e0e7ee784d76c1d3794695f670f40f1aaed36 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R$drawable.class
+1376487657000 710 de48aa66c986f71bf3a183c58a2000045045520b /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R.class
+1376487657000 1049 00e154c63b08650c7989ca331c0deb095c95039a /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/LoginActivity$1.class
+1376487657000 1068 fa96053ccd204f10cd948120e1adcae6f676107c /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/LoginActivity$3.class
+1376487657000 6078 da061a60c5775de158c1ac144c0ed6978a4bf102 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/LoginActivity.class
+1376487657000 431 0225cb4c33e4b108df49c9805b921f1022839b3f /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R$layout.class
+1376487657000 416 725504f605f7f6c79484797459d81dda548d9149 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R$menu.class
+1376487657000 1068 567b7eecc3de0de547e1a4222ebc8ede9373bf26 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/LoginActivity$4.class
+1376487657000 867 48664ba11f4411599fb94fed2e27f2ece628ad34 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/R$string.class
+1376487657000 2826 0d8f5de0f2bb3f13b9f355d0df05eea958e2d3c2 /home/andrew/AndroidStudioProjects/TumblrSampleApp/TumblrSampleApp/build/classes/debug/com/example/tumblrsampleapp/LoginActivity$UserLoginTask.class
